@@ -1,7 +1,9 @@
 ---
 title: Google, DTE deal hints at new power framework
 url: https://www.argusmedia.com/en/news-and-insights/latest-market-news/2803538-google-dte-deal-hints-at-new-power-framework
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"DTE Energy" press release artificial intelligence'
 position: 1
 source: serpapi-google

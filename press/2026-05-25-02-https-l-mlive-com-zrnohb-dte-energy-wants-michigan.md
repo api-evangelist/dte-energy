@@ -1,7 +1,9 @@
 ---
 title: 🔗 https://l.mlive.com/zrnohb DTE Energy wants Michigan ...
 url: https://www.facebook.com/annarbornews/posts/-httpslmlivecomzrnohb-dte-energy-wants-michigan-regulators-to-rush-approval-of-a/1398039142332110/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"DTE Energy" press release artificial intelligence'
 position: 2
 source: serpapi-google
