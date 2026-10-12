@@ -89,7 +89,7 @@ No public APIs have been documented yet. Contributions welcome.
 
 ## Common Properties
 
-- [Website](https://www.dte-energy.com)
+- [Website](https://www.dteenergy.com)
 
 ## Maintainers
 
